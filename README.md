@@ -1,5 +1,11 @@
-## Hi there 👋
 
+# Hi, I'm Afrin Sana 👋  
+*Data Enthusiast | Machine Learning & BI | Explorer of Insights*  
+
+🌟 Skills: Python, SQL, Power BI, Tableau, scikit-learn  
+📚 Currently learning: Advanced Machine Learning & Time Series Analysis  
+💡 Fun fact: I love uncovering stories hidden in data.  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/afrinsana) | [Email](mailto:sanaafrin.as@gmail.com)
 <!--
 **afrinsana/afrinsana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
